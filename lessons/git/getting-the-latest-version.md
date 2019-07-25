@@ -5,6 +5,8 @@
 git remote add upstream https://github.com/mq-software-carpentry/2019-07-24-intro-to-python-workshop
 git fetch --all
 git merge upstream/master
+
+git push  # to push back the changes to your repository
 ```
 
 ## `git remote`
